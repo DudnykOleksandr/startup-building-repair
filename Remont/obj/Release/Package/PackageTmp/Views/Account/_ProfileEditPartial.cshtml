@@ -1,0 +1,7 @@
+﻿<h3>Change skills</h3>
+
+@using (Html.BeginForm("ProfileEdit", "Account", FormMethod.Post))
+{
+    @Html.ListBox("skills", ViewBag.Skills as MultiSelectList);
+    <p><input type="submit" value="Отправить" /></p>
+}

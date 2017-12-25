@@ -1,0 +1,100 @@
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.dll.config
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.pdb
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Postal.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\WebGrease.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.pdb
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.pdb
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.dll.config
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.Tests.pdb
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\EntityFramework.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Razor.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Postal.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Remont.pdb
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\EntityFramework.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Razor.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.dll
+D:\Projects\Remont\trunk\Remont.Tests\obj\Debug\Remont.Tests.pdb
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\WebActivator.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\MVC4ControlsToolkit.dll
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Projects\Remont\trunk\Remont.Tests\bin\Debug\Newtonsoft.Json.dll

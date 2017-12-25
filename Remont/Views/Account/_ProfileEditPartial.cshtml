@@ -1,0 +1,16 @@
+﻿@using MVCControlsToolkit.Core;
+@using MVCControlsToolkit.Controls;
+@using Remont.Core;
+
+@model Remont.Core.Worker
+
+<h3>Change skills</h3>
+
+@using (Html.BeginForm("ProfileEdit", "Account", FormMethod.Post))
+{
+    //@Html.ListBox("skillIds", ViewBag.Skills as MultiSelectList);
+    @Html.CheckBoxListFor(m => m.Skills.Select(s => s.SkillId), ViewBag.ChoiseList as ChoiceList<Skill, int, string>);
+    <p>
+        <input type="submit" value="Отправить" />
+    </p>
+}

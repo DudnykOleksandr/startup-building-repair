@@ -1,0 +1,50 @@
+﻿@using Remont.Resources
+
+@model Remont.Models.LoginModel
+
+@{
+	ViewBag.Title = Resource.LogIn;
+}
+
+<hgroup class="title">
+	<h1>@ViewBag.Title.</h1>
+</hgroup>
+
+<section id="loginForm">
+	@using (Html.BeginForm(new { ReturnUrl = ViewBag.ReturnUrl }))
+ {
+		@Html.AntiForgeryToken()
+		@Html.ValidationSummary(true)
+
+		<fieldset>
+			<legend>Resource.LogIn</legend>
+			<ol>
+				<li>
+					@Html.LabelFor(m => m.UserName)
+					@Html.TextBoxFor(m => m.UserName)
+					@Html.ValidationMessageFor(m => m.UserName)
+				</li>
+				<li>
+					@Html.LabelFor(m => m.Password)
+					@Html.PasswordFor(m => m.Password)
+					@Html.ValidationMessageFor(m => m.Password)
+				</li>
+				<li>
+					@Html.CheckBoxFor(m => m.RememberMe)
+					@Html.LabelFor(m => m.RememberMe, new { @class = "checkbox" })
+				</li>
+			</ol>
+			<input type="submit" value="@Resource.LogIn" />
+		</fieldset>
+		<p>
+			@Html.ActionLink(Resource.Register, "Register") @Resource.RegisterComment
+		</p>
+		<p>
+			@Html.ActionLink(Resource.Reset, "LostPassword") @Resource.ResetComment
+		</p>
+ }
+</section>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,107 @@
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Remont.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Remont.pdb
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Antlr3.Runtime.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.Core.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\EntityFramework.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Newtonsoft.Json.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Postal.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\RazorEngine.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Net.Http.Formatting.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Helpers.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Http.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Http.WebHost.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Mvc.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Optimization.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Razor.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Razor.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\WebGrease.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\WebMatrix.Data.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\WebMatrix.WebData.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\EntityFramework.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Newtonsoft.Json.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Net.Http.Formatting.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Helpers.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Http.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Http.WebHost.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.Mvc.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Razor.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\WebMatrix.Data.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\WebMatrix.WebData.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.Core.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\obj\Debug\Remont.csprojResolveAssemblyReference.cache
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\obj\Debug\Remont.dll
+C:\Users\Я\Documents\Visual Studio 2012\Projects\Remont\trunk\Remont\obj\Debug\Remont.pdb
+D:\Projects\Remont\trunk\Remont\bin\Remont.dll
+D:\Projects\Remont\trunk\Remont\bin\Remont.pdb
+D:\Projects\Remont\trunk\Remont\bin\Antlr3.Runtime.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.Core.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\Remont\trunk\Remont\bin\EntityFramework.dll
+D:\Projects\Remont\trunk\Remont\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Remont\trunk\Remont\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\Remont\trunk\Remont\bin\Newtonsoft.Json.dll
+D:\Projects\Remont\trunk\Remont\bin\Postal.dll
+D:\Projects\Remont\trunk\Remont\bin\RazorEngine.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Net.Http.Formatting.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Helpers.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Http.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Http.WebHost.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Mvc.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Optimization.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Razor.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.dll
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Remont\trunk\Remont\bin\WebGrease.dll
+D:\Projects\Remont\trunk\Remont\bin\WebMatrix.Data.dll
+D:\Projects\Remont\trunk\Remont\bin\WebMatrix.WebData.dll
+D:\Projects\Remont\trunk\Remont\bin\EntityFramework.xml
+D:\Projects\Remont\trunk\Remont\bin\Newtonsoft.Json.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Net.Http.Formatting.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Helpers.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Http.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Http.WebHost.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Mvc.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Remont\trunk\Remont\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Remont\trunk\Remont\bin\WebMatrix.Data.xml
+D:\Projects\Remont\trunk\Remont\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\Remont\trunk\Remont\bin\WebMatrix.WebData.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.Core.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\Remont\trunk\Remont\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\Remont\trunk\Remont\obj\Debug\Remont.csprojResolveAssemblyReference.cache
+D:\Projects\Remont\trunk\Remont\obj\Debug\Remont.dll
+D:\Projects\Remont\trunk\Remont\obj\Debug\Remont.pdb
+D:\Projects\Remont\trunk\Remont\bin\MVC4ControlsToolkit.dll
+D:\Projects\Remont\trunk\Remont\bin\WebActivator.dll
+D:\Projects\Remont\trunk\Remont\bin\Antlr3.Runtime.pdb
+D:\Projects\Remont\trunk\Remont\bin\System.Web.Optimization.xml
+D:\Projects\Remont\trunk\Remont\obj\Debug\Remont.csproj.GenerateResource.Cache
+D:\Projects\Remont\trunk\Remont\obj\Debug\Remont.Resources.Resource.resources

@@ -1,0 +1,41 @@
+﻿@{
+	ViewBag.Title = "Home Page";
+}
+@section featured {
+	<section class="featured">
+		<div class="content-wrapper">
+			<hgroup class="title">
+				<h1>@ViewBag.Title.</h1>
+				<h2>@ViewBag.Message</h2>
+			</hgroup>
+		</div>
+	</section>
+}
+@model Remont.Models.SkillFilter
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+    @Html.CheckBoxListFor(m=>m.SelectedSkillIds, ViewBag.ChoiseList as ChoiceList<Remont.Core.Skill, int, string>);
+    <p>
+        <input type="submit" value="Filter" />
+    </p>
+}
+<h3>Our best workers</h3>
+<ol class="round">
+	@foreach (Remont.Core.Worker worker in @ViewBag.Workers as IEnumerable<Remont.Core.Worker>)
+ {
+		<li>
+			<h5>UserName - @worker.UserProfile.UserName</h5>
+			UserEmail - @worker.UserProfile.Email
+			<h6>User Skills:</h6>
+			<ul type="square">
+				@foreach (var skill in worker.Skills)
+				{ 
+					<li>
+						@skill.Code
+					</li>
+				}
+			</ul>
+		</li>
+ }
+</ol>
